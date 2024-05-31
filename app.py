@@ -1,8 +1,8 @@
 from searlgo import text_search, search_partial, search_list
 
 string = "Hello, pytha welcome to the world of Python programming."
-new = string.split()
-print(new.split())
+  
+
 
 # strings = ['CSS', 'Django', 'Git', 'pytha', 'HTML', 'Python']
 # pattern = "pyt"

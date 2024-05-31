@@ -1,7 +1,8 @@
 
 #text_search gets the first occurence of the pattern
 def text_search(text, pattern):
-    # text.split()
+    # if type(text) == str:
+    # new = text.split()
     text_length = len(text)
     pattern_length = len(pattern)
     result = []
